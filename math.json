@@ -1,0 +1,122 @@
+[
+  {
+    "subject": "Math",
+    "grade": 4,
+    "topic": "Adding and Subtracting Numbers (with and without regrouping)",
+    "questions": [
+      { "type": "multiple_choice", "question": "What is 456 + 278?", "choices": ["734", "744", "724"], "answer": "734" },
+      { "type": "multiple_choice", "question": "What is 602 - 385?", "choices": ["217", "227", "207"], "answer": "217" },
+      { "type": "multiple_choice", "question": "Add 789 + 156.", "choices": ["945", "955", "935"], "answer": "945" },
+      { "type": "multiple_choice", "question": "Subtract 503 - 278.", "choices": ["225", "235", "215"], "answer": "225" },
+      { "type": "multiple_choice", "question": "Find the sum of 678 + 324.", "choices": ["1002", "1000", "1012"], "answer": "1002" },
+
+      { "type": "short_answer", "question": "What is 342 + 467?", "answer": "809" },
+      { "type": "short_answer", "question": "Subtract 589 - 274.", "answer": "315" },
+      { "type": "short_answer", "question": "Add 125 + 398.", "answer": "523" },
+      { "type": "short_answer", "question": "What is 710 - 386?", "answer": "324" },
+      { "type": "short_answer", "question": "Add 234 + 567.", "answer": "801" },
+
+      { "type": "true_false", "question": "456 + 278 = 734.", "answer": "True" },
+      { "type": "true_false", "question": "602 - 385 = 220.", "answer": "False" },
+      { "type": "true_false", "question": "789 + 156 = 945.", "answer": "True" },
+      { "type": "true_false", "question": "503 - 278 = 215.", "answer": "False" },
+      { "type": "true_false", "question": "678 + 324 = 1002.", "answer": "True" },
+
+      { "type": "fill_blank", "question": "456 + __ = 734", "answer": "278" },
+      { "type": "fill_blank", "question": "602 - __ = 217", "answer": "385" },
+      { "type": "fill_blank", "question": "___ + 156 = 945", "answer": "789" },
+      { "type": "fill_blank", "question": "503 - __ = 225", "answer": "278" },
+      { "type": "fill_blank", "question": "678 + __ = 1002", "answer": "324" }
+    ]
+  },
+  {
+    "subject": "Math",
+    "grade": 4,
+    "topic": "Multiplication and Problem Solving",
+    "questions": [
+      { "type": "multiple_choice", "question": "What is 24 × 3?", "choices": ["72", "82", "62"], "answer": "72" },
+      { "type": "multiple_choice", "question": "Multiply 15 × 6.", "choices": ["90", "95", "85"], "answer": "90" },
+      { "type": "multiple_choice", "question": "A box has 12 apples. How many apples in 8 boxes?", "choices": ["96", "86", "106"], "answer": "96" },
+      { "type": "multiple_choice", "question": "Multiply 18 × 4.", "choices": ["72", "74", "70"], "answer": "72" },
+      { "type": "multiple_choice", "question": "If 5 pencils cost $3 each, total cost?", "choices": ["15", "12", "18"], "answer": "15" },
+
+      { "type": "short_answer", "question": "What is 23 × 5?", "answer": "115" },
+      { "type": "short_answer", "question": "Multiply 14 × 7.", "answer": "98" },
+      { "type": "short_answer", "question": "A pen costs $4. How much for 9 pens?", "answer": "36" },
+      { "type": "short_answer", "question": "Multiply 16 × 6.", "answer": "96" },
+      { "type": "short_answer", "question": "If 7 bags have 15 candies each, total candies?", "answer": "105" },
+
+      { "type": "true_false", "question": "24 × 3 = 72.", "answer": "True" },
+      { "type": "true_false", "question": "15 × 6 = 85.", "answer": "False" },
+      { "type": "true_false", "question": "12 × 8 = 96.", "answer": "True" },
+      { "type": "true_false", "question": "18 × 4 = 70.", "answer": "False" },
+      { "type": "true_false", "question": "5 × 3 = 15.", "answer": "True" },
+
+      { "type": "fill_blank", "question": "24 × __ = 72", "answer": "3" },
+      { "type": "fill_blank", "question": "__ × 6 = 90", "answer": "15" },
+      { "type": "fill_blank", "question": "12 × __ = 96", "answer": "8" },
+      { "type": "fill_blank", "question": "18 × __ = 72", "answer": "4" },
+      { "type": "fill_blank", "question": "5 × __ = 15", "answer": "3" }
+    ]
+  },
+  {
+    "subject": "Math",
+    "grade": 4,
+    "topic": "Multiplying Numbers (with and without regrouping)",
+    "questions": [
+      { "type": "multiple_choice", "question": "What is 34 × 2?", "choices": ["68", "64", "72"], "answer": "68" },
+      { "type": "multiple_choice", "question": "Multiply 46 × 5.", "choices": ["230", "225", "235"], "answer": "230" },
+      { "type": "multiple_choice", "question": "What is 57 × 3?", "choices": ["171", "161", "181"], "answer": "171" },
+      { "type": "multiple_choice", "question": "Multiply 38 × 4.", "choices": ["152", "148", "158"], "answer": "152" },
+      { "type": "multiple_choice", "question": "Find 49 × 6.", "choices": ["294", "284", "304"], "answer": "294" },
+
+      { "type": "short_answer", "question": "What is 63 × 7?", "answer": "441" },
+      { "type": "short_answer", "question": "Multiply 28 × 9.", "answer": "252" },
+      { "type": "short_answer", "question": "What is 72 × 8?", "answer": "576" },
+      { "type": "short_answer", "question": "Multiply 35 × 6.", "answer": "210" },
+      { "type": "short_answer", "question": "What is 44 × 3?", "answer": "132" },
+
+      { "type": "true_false", "question": "34 × 2 = 68.", "answer": "True" },
+      { "type": "true_false", "question": "46 × 5 = 225.", "answer": "False" },
+      { "type": "true_false", "question": "57 × 3 = 171.", "answer": "True" },
+      { "type": "true_false", "question": "38 × 4 = 150.", "answer": "False" },
+      { "type": "true_false", "question": "49 × 6 = 294.", "answer": "True" },
+
+      { "type": "fill_blank", "question": "34 × __ = 68", "answer": "2" },
+      { "type": "fill_blank", "question": "__ × 5 = 230", "answer": "46" },
+      { "type": "fill_blank", "question": "57 × __ = 171", "answer": "3" },
+      { "type": "fill_blank", "question": "38 × __ = 152", "answer": "4" },
+      { "type": "fill_blank", "question": "__ × 6 = 294", "answer": "49" }
+    ]
+  },
+  {
+    "subject": "Math",
+    "grade": 4,
+    "topic": "Estimating Product",
+    "questions": [
+      { "type": "multiple_choice", "question": "Estimate: 47 × 6 ≈ ?", "choices": ["270", "280", "300"], "answer": "280" },
+      { "type": "multiple_choice", "question": "Estimate: 53 × 9 ≈ ?", "choices": ["450", "470", "500"], "answer": "500" },
+      { "type": "multiple_choice", "question": "Estimate: 68 × 7 ≈ ?", "choices": ["450", "470", "500"], "answer": "470" },
+      { "type": "multiple_choice", "question": "Estimate: 29 × 8 ≈ ?", "choices": ["220", "230", "240"], "answer": "230" },
+      { "type": "multiple_choice", "question": "Estimate: 84 × 5 ≈ ?", "choices": ["400", "420", "450"], "answer": "420" },
+
+      { "type": "short_answer", "question": "Estimate 37 × 6.", "answer": "220" },
+      { "type": "short_answer", "question": "Estimate 58 × 9.", "answer": "520" },
+      { "type": "short_answer", "question": "Estimate 72 × 8.", "answer": "570" },
+      { "type": "short_answer", "question": "Estimate 49 × 7.", "answer": "350" },
+      { "type": "short_answer", "question": "Estimate 66 × 5.", "answer": "330" },
+
+      { "type": "true_false", "question": "47 × 6 ≈ 280.", "answer": "True" },
+      { "type": "true_false", "question": "53 × 9 ≈ 450.", "answer": "False" },
+      { "type": "true_false", "question": "68 × 7 ≈ 470.", "answer": "True" },
+      { "type": "true_false", "question": "29 × 8 ≈ 250.", "answer": "False" },
+      { "type": "true_false", "question": "84 × 5 ≈ 420.", "answer": "True" },
+
+      { "type": "fill_blank", "question": "47 × __ ≈ 280", "answer": "6" },
+      { "type": "fill_blank", "question": "53 × __ ≈ 500", "answer": "9" },
+      { "type": "fill_blank", "question": "68 × __ ≈ 470", "answer": "7" },
+      { "type": "fill_blank", "question": "29 × __ ≈ 230", "answer": "8" },
+      { "type": "fill_blank", "question": "84 × __ ≈ 420", "answer": "5" }
+    ]
+  }
+]

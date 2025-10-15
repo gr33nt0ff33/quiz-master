@@ -1,0 +1,32 @@
+[
+  {
+    "subject": "Science",
+    "grade": 1,
+    "topic": "Basic Concepts",
+    "questions": [
+      { "type": "multiple_choice", "question": "What do plants need to grow?", "choices": ["Water", "Sand", "Plastic"], "answer": "Water" },
+      { "type": "multiple_choice", "question": "Which organ helps us breathe?", "choices": ["Lungs", "Heart", "Stomach"], "answer": "Lungs" },
+      { "type": "multiple_choice", "question": "What planet do we live on?", "choices": ["Mars", "Earth", "Venus"], "answer": "Earth" },
+      { "type": "multiple_choice", "question": "What gas do humans need to survive?", "choices": ["Oxygen", "Carbon dioxide", "Nitrogen"], "answer": "Oxygen" },
+      { "type": "multiple_choice", "question": "What gives energy to plants?", "choices": ["Sunlight", "Rain", "Wind"], "answer": "Sunlight" },
+
+      { "type": "short_answer", "question": "What do we call the force that pulls things down?", "answer": "Gravity" },
+      { "type": "short_answer", "question": "What part of the body pumps blood?", "answer": "Heart" },
+      { "type": "short_answer", "question": "What do bees make?", "answer": "Honey" },
+      { "type": "short_answer", "question": "What color is the sky on a clear day?", "answer": "Blue" },
+      { "type": "short_answer", "question": "What do fish use to breathe?", "answer": "Gills" },
+
+      { "type": "true_false", "question": "The sun is a star.", "answer": "True" },
+      { "type": "true_false", "question": "Water boils at 50°C.", "answer": "False" },
+      { "type": "true_false", "question": "All plants can move from place to place.", "answer": "False" },
+      { "type": "true_false", "question": "Humans need oxygen to live.", "answer": "True" },
+      { "type": "true_false", "question": "Earth is the third planet from the Sun.", "answer": "True" },
+
+      { "type": "fill_blank", "question": "The Earth revolves around the ___", "answer": "Sun" },
+      { "type": "fill_blank", "question": "We use our ___ to see.", "answer": "eyes" },
+      { "type": "fill_blank", "question": "Plants make their own food using ___", "answer": "sunlight" },
+      { "type": "fill_blank", "question": "The hardest natural substance is ___", "answer": "diamond" },
+      { "type": "fill_blank", "question": "Fish live in the ___", "answer": "water" }
+    ]
+  }
+]

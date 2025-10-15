@@ -1,0 +1,32 @@
+[
+  {
+    "subject": "English",
+    "grade": 1,
+    "topic": "Vocabulary & Grammar",
+    "questions": [
+      { "type": "multiple_choice", "question": "What is the opposite of 'hot'?", "choices": ["Cold", "Warm", "Boiling"], "answer": "Cold" },
+      { "type": "multiple_choice", "question": "Which word is a noun?", "choices": ["Run", "Happiness", "Quickly"], "answer": "Happiness" },
+      { "type": "multiple_choice", "question": "Choose the correct plural: 'Child' → ?", "choices": ["Childs", "Children", "Childes"], "answer": "Children" },
+      { "type": "multiple_choice", "question": "Which is a verb?", "choices": ["Dance", "Blue", "Chair"], "answer": "Dance" },
+      { "type": "multiple_choice", "question": "Which of these is an adjective?", "choices": ["Happy", "Play", "Dog"], "answer": "Happy" },
+
+      { "type": "short_answer", "question": "What is the first letter of the word 'Apple'?", "answer": "A" },
+      { "type": "short_answer", "question": "What do we call the name of a person, place, or thing?", "answer": "Noun" },
+      { "type": "short_answer", "question": "What comes after 'E' in the alphabet?", "answer": "F" },
+      { "type": "short_answer", "question": "What is the opposite of 'big'?", "answer": "Small" },
+      { "type": "short_answer", "question": "What punctuation ends a question?", "answer": "Question mark" },
+
+      { "type": "true_false", "question": "'Run' is a verb.", "answer": "True" },
+      { "type": "true_false", "question": "Sentences must start with a lowercase letter.", "answer": "False" },
+      { "type": "true_false", "question": "'Dog' is a proper noun.", "answer": "False" },
+      { "type": "true_false", "question": "An adjective describes a noun.", "answer": "True" },
+      { "type": "true_false", "question": "The plural of 'mouse' is 'mouses'.", "answer": "False" },
+
+      { "type": "fill_blank", "question": "I have a ___ apple.", "answer": "red" },
+      { "type": "fill_blank", "question": "The cat is on the ___", "answer": "mat" },
+      { "type": "fill_blank", "question": "She ___ to school every day.", "answer": "goes" },
+      { "type": "fill_blank", "question": "He is ___ than his brother.", "answer": "taller" },
+      { "type": "fill_blank", "question": "It is a ___ day.", "answer": "sunny" }
+    ]
+  }
+]
