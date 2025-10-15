@@ -1,32 +1,98 @@
 [
   {
     "subject": "Science",
-    "grade": 1,
-    "topic": "Basic Concepts",
+    "grade": 4,
+    "topic": "The Systems in our body - level of organization : cells to organ",
     "questions": [
-      { "type": "multiple_choice", "question": "What do plants need to grow?", "choices": ["Water", "Sand", "Plastic"], "answer": "Water" },
-      { "type": "multiple_choice", "question": "Which organ helps us breathe?", "choices": ["Lungs", "Heart", "Stomach"], "answer": "Lungs" },
-      { "type": "multiple_choice", "question": "What planet do we live on?", "choices": ["Mars", "Earth", "Venus"], "answer": "Earth" },
-      { "type": "multiple_choice", "question": "What gas do humans need to survive?", "choices": ["Oxygen", "Carbon dioxide", "Nitrogen"], "answer": "Oxygen" },
-      { "type": "multiple_choice", "question": "What gives energy to plants?", "choices": ["Sunlight", "Rain", "Wind"], "answer": "Sunlight" },
-
-      { "type": "short_answer", "question": "What do we call the force that pulls things down?", "answer": "Gravity" },
-      { "type": "short_answer", "question": "What part of the body pumps blood?", "answer": "Heart" },
-      { "type": "short_answer", "question": "What do bees make?", "answer": "Honey" },
-      { "type": "short_answer", "question": "What color is the sky on a clear day?", "answer": "Blue" },
-      { "type": "short_answer", "question": "What do fish use to breathe?", "answer": "Gills" },
-
-      { "type": "true_false", "question": "The sun is a star.", "answer": "True" },
-      { "type": "true_false", "question": "Water boils at 50°C.", "answer": "False" },
-      { "type": "true_false", "question": "All plants can move from place to place.", "answer": "False" },
-      { "type": "true_false", "question": "Humans need oxygen to live.", "answer": "True" },
-      { "type": "true_false", "question": "Earth is the third planet from the Sun.", "answer": "True" },
-
-      { "type": "fill_blank", "question": "The Earth revolves around the ___", "answer": "Sun" },
-      { "type": "fill_blank", "question": "We use our ___ to see.", "answer": "eyes" },
-      { "type": "fill_blank", "question": "Plants make their own food using ___", "answer": "sunlight" },
-      { "type": "fill_blank", "question": "The hardest natural substance is ___", "answer": "diamond" },
-      { "type": "fill_blank", "question": "Fish live in the ___", "answer": "water" }
+      { "type": "multiple_choice", "question": "What is the smallest unit of life?", "choices": ["Organ", "Tissue", "Cell"], "answer": "Cell" },
+      { "type": "multiple_choice", "question": "What forms when similar cells work together?", "choices": ["Organ", "System", "Tissue"], "answer": "Tissue" },
+      { "type": "true_false", "question": "An organ is made up of only one type of cell.", "answer": "False" },
+      { "type": "short_answer", "question": "What do organs that work together form?", "answer": "Organ system" },
+      { "type": "fill_blank", "question": "Cells → Tissues → Organs → ___", "answer": "Organ systems" }
+    ]
+  },
+  {
+    "subject": "Science",
+    "grade": 4,
+    "topic": "The Systems in our body - major organs of the human body",
+    "questions": [
+      { "type": "multiple_choice", "question": "Which organ pumps blood throughout the body?", "choices": ["Heart", "Lungs", "Stomach"], "answer": "Heart" },
+      { "type": "multiple_choice", "question": "Which organ is responsible for breathing?", "choices": ["Brain", "Lungs", "Kidneys"], "answer": "Lungs" },
+      { "type": "true_false", "question": "The brain controls all body activities.", "answer": "True" },
+      { "type": "short_answer", "question": "What organ helps digest food?", "answer": "Stomach" },
+      { "type": "fill_blank", "question": "The ___ cleans the blood in our body.", "answer": "Kidney" }
+    ]
+  },
+  {
+    "subject": "Science",
+    "grade": 4,
+    "topic": "The Systems in our body - caring for the major organs of the human body",
+    "questions": [
+      { "type": "multiple_choice", "question": "How can you keep your lungs healthy?", "choices": ["Smoke", "Exercise", "Stay indoors"], "answer": "Exercise" },
+      { "type": "true_false", "question": "Eating too much junk food helps your heart stay healthy.", "answer": "False" },
+      { "type": "multiple_choice", "question": "What helps the brain stay active and healthy?", "choices": ["Sleeping well", "Skipping meals", "Watching TV all day"], "answer": "Sleeping well" },
+      { "type": "short_answer", "question": "What should you drink plenty of to help your kidneys?", "answer": "Water" },
+      { "type": "fill_blank", "question": "Brushing teeth daily helps keep the ___ healthy.", "answer": "Mouth" }
+    ]
+  },
+  {
+    "subject": "Science",
+    "grade": 4,
+    "topic": "Plant Shoot system",
+    "questions": [
+      { "type": "multiple_choice", "question": "Which part of the plant makes food?", "choices": ["Root", "Leaf", "Stem"], "answer": "Leaf" },
+      { "type": "multiple_choice", "question": "What supports the plant and carries water to the leaves?", "choices": ["Stem", "Flower", "Root"], "answer": "Stem" },
+      { "type": "true_false", "question": "The shoot system includes roots.", "answer": "False" },
+      { "type": "short_answer", "question": "What part of the shoot system helps in reproduction?", "answer": "Flower" },
+      { "type": "fill_blank", "question": "The ___ carries water from roots to leaves.", "answer": "Stem" }
+    ]
+  },
+  {
+    "subject": "Science",
+    "grade": 4,
+    "topic": "Parts of the plants",
+    "questions": [
+      { "type": "multiple_choice", "question": "Which part of the plant absorbs water and minerals?", "choices": ["Root", "Leaf", "Stem"], "answer": "Root" },
+      { "type": "multiple_choice", "question": "Which part helps in photosynthesis?", "choices": ["Leaf", "Flower", "Fruit"], "answer": "Leaf" },
+      { "type": "true_false", "question": "Fruits protect the seeds of a plant.", "answer": "True" },
+      { "type": "short_answer", "question": "What part holds the plant in the soil?", "answer": "Root" },
+      { "type": "fill_blank", "question": "Seeds grow into new ___", "answer": "Plants" }
+    ]
+  },
+  {
+    "subject": "Science",
+    "grade": 4,
+    "topic": "The root system in plants",
+    "questions": [
+      { "type": "multiple_choice", "question": "Which type of root grows straight down?", "choices": ["Fibrous root", "Taproot", "Aerial root"], "answer": "Taproot" },
+      { "type": "multiple_choice", "question": "Which root type spreads out like a mat?", "choices": ["Taproot", "Fibrous root", "Adventitious root"], "answer": "Fibrous root" },
+      { "type": "true_false", "question": "Roots help anchor the plant in the soil.", "answer": "True" },
+      { "type": "short_answer", "question": "What do roots absorb from the soil?", "answer": "Water and minerals" },
+      { "type": "fill_blank", "question": "The ___ stores food for the plant in some plants like carrots.", "answer": "Root" }
+    ]
+  },
+  {
+    "subject": "Science",
+    "grade": 4,
+    "topic": "Habitat of Plant and animals",
+    "questions": [
+      { "type": "multiple_choice", "question": "Where do fish live?", "choices": ["Land", "Water", "Air"], "answer": "Water" },
+      { "type": "multiple_choice", "question": "Cactus plants are found in which type of habitat?", "choices": ["Desert", "Rainforest", "Tundra"], "answer": "Desert" },
+      { "type": "true_false", "question": "Penguins live in hot deserts.", "answer": "False" },
+      { "type": "short_answer", "question": "What is the natural home of a living organism called?", "answer": "Habitat" },
+      { "type": "fill_blank", "question": "Frogs live both on land and in ___", "answer": "Water" }
+    ]
+  },
+  {
+    "subject": "Science",
+    "grade": 4,
+    "topic": "Animals and the food they eat / Food chain",
+    "questions": [
+      { "type": "multiple_choice", "question": "Animals that eat only plants are called?", "choices": ["Herbivores", "Carnivores", "Omnivores"], "answer": "Herbivores" },
+      { "type": "multiple_choice", "question": "What do we call animals that eat both plants and animals?", "choices": ["Herbivores", "Omnivores", "Carnivores"], "answer": "Omnivores" },
+      { "type": "true_false", "question": "Lions are herbivores.", "answer": "False" },
+      { "type": "short_answer", "question": "What do we call the sequence that shows how energy passes from one organism to another?", "answer": "Food chain" },
+      { "type": "fill_blank", "question": "Grass → Grasshopper → Frog → Snake → ___", "answer": "Eagle" }
     ]
   }
 ]
